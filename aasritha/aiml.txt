@@ -1,0 +1,7 @@
+public class hey
+{
+public static void main[str args]
+{
+syatem.out.println("houyeygte");
+}
+}
